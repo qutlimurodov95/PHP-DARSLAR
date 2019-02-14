@@ -5,10 +5,10 @@
 <?php
 $massiv=array(24,qutlimurodov shoxruh,programist)
 if($massiv[0]<=40 && $massiv[3]==ture){
-	echo yaroqli;
+	echo 'yaroqli';
 }
 	else{
-		echo yaroqsiz;
+		echo 'yaroqsiz';
 	}
 	?>
 	</body>
